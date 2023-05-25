@@ -351,3 +351,4 @@ for (yr in seq(2004, 2020, by = 4)) {
     v("Making year: ", yr)
     make_year(yr)
 }
+
